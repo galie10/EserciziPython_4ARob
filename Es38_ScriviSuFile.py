@@ -1,0 +1,5 @@
+f = open("./miofile.txt","w")
+f.write("ciao")
+f.write("\nAlice")
+f.write("\n5")
+f.close()
